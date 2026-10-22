@@ -6,7 +6,7 @@
 
 Explore global stock markets manually or generate a personalized mutual fund investment path using structured risk analysis, goal-based planning, quantitative metrics, and interactive financial analytics.
 
-[**🚀 Live Demo**](https://ai-powered-financial-intelligence-8thnk9mbcabjnpdz72agcz.streamlit.app/)
+[**🚀 Live Demo**](https://finsight-ai-financial-intelligence-platform-2bty8nhmdf98q8mklr.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
